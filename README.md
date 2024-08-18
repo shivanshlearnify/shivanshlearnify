@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshlearnify" alt="shivanshlearnify" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [xyz.com](xyz.com)
+- 👨‍💻 All of my projects are available at (https://shivansh-portfolio96.netlify.app/)
 
 - 💬 Ask me about **react,redux,html,css ,js**
 
